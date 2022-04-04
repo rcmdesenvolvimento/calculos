@@ -4,7 +4,12 @@ public class ValeAlimentacao {
 
 	public static void main(String[] args) {
 		
-
+		/*
+		 * Auto  : Ricardo Cardoso miranda
+		 * Data  : 03/04/2022
+		 */
+		
+		
 		double salario = 0;
 		double desconto = 0;
 		double novoSalario = 0;
